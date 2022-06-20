@@ -4,7 +4,7 @@
 Hi there, I'm Moisés 👋
 I'm Fullstack Software Engineer passionate about new technologies,
 
-- 🌱 I’m currently learning NodeJS with NestJS, Go , .NET 6 (WebApi and Blazor) and software architectures
+- 🌱 I’m currently learning about hexagonal architecture, DDD, CQRS with .NET 6 (WebApi) and Go
 - 👯 I’m looking to collaborate and learn more about microservices, software architecture, distributed systems and Web3 projects
 - 💬 Ask me about frontend, backend and clean architectures
 
