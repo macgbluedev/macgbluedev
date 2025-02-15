@@ -6,7 +6,7 @@ I'm a Software Engineer passionate about crafting and designing impressive digit
 
 🏁 My main goal is to build software that improves people's quality of life.
 
-🌱 I’m currently learning about backend performance, data pipelines, hybrid mobile apps with React Native, and UI/UX design.
+🌱 I’m currently learning about backend performance, data pipelines, hybrid mobile apps with React Native, UI/UX design, and AI applied use cases.
 👯 I’m looking to collaborate and learn more about exciting projects to create awesome digital products.
 💬 Ask me about backend development, ASP.NET Core, Azure, solutions architecture, or any idea you need help bringing to life!
 
