@@ -10,7 +10,7 @@ I'm a Software Engineer passionate about crafting and designing impressive digit
 👯 I’m looking to collaborate and learn more about exciting projects to create awesome digital products.
 💬 Ask me about backend development, ASP.NET Core, Azure, solutions architecture, or any idea you need help bringing to life!
 
-## Tech Stack
+## 💻 Tech Stack
 <div style="display: inline_block"><br>
     <img align="center" alt="csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
     <img align="center" alt="dotnetcore" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dotnetcore/dotnetcore-original.svg">
