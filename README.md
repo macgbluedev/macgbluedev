@@ -7,10 +7,10 @@ I'm a Software Engineer passionate about crafting and designing impressive digit
 🏁 My main goal is to build software that improves people's quality of life.
 
 🌱 I’m currently learning about 
-    - Backend performance using .NET.
-    - Hybrid mobile apps with React Native and Lynx.
-    - AI LLMs as productivity game-changer.
-    - Elixir from basics to real product.
+- Backend performance using .NET.
+- Hybrid mobile apps with React Native and Lynx.
+- AI LLMs as productivity game-changer.
+- Elixir from basics to real product.
     
 👯 I’m looking to collaborate and learn more about exciting projects to create awesome digital products.
 💬 Stay tunned!
