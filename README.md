@@ -8,9 +8,8 @@ I'm a Software Engineer passionate about crafting and designing impressive digit
 
 🌱 I’m currently learning about 
 - Backend performance using .NET.
-- Hybrid mobile apps with React Native and Lynx.
+- Hybrid mobile apps with React Native.
 - AI LLMs as productivity game-changer.
-- Elixir from basics to real product.
     
 👯 I’m looking to collaborate and learn more about exciting projects to create awesome digital products.
 💬 Stay tunned!
